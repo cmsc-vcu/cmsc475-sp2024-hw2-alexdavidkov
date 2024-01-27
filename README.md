@@ -5,4 +5,3 @@ Dynamic calling cards: storyboarding
 Alex Davidkov 
 
 Description: 5 board storyboard about the adventures of a group of frogs on a trip to go retrive their money. 
-
